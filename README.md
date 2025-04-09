@@ -11,11 +11,6 @@ Project designed and aimed at practicing in a realistic bioinformatics context.
 - Clear and interactive visualizations
 - In-depth analysis of the Pandas, NumPy, Seaborn, Scikit-learn libraries
 
-## Dataset
-
-'date/'
-It contains real or simulated miRNA expression data (e.g. from NCBI GEO or created with 'numpy').
-
 ## Requirements
 
 Install the packages:
