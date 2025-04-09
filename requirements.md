@@ -1,6 +1,6 @@
 # Requirements
 
-Install the packages:
+Install the packages:<br>
 numpy <br>
 matplotlib <br>
 seaborn <br>
@@ -9,5 +9,5 @@ plotly<br>
 
 bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly
-
+<br>
 to upload
