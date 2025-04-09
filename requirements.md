@@ -7,7 +7,7 @@ seaborn <br>
 scikit-learn <br>
 plotly<br>
 
-bash
+bash:<br>
 pip install pandas numpy matplotlib seaborn scikit-learn plotly
 <br>
 to upload
